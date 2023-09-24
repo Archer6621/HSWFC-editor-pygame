@@ -1,0 +1,10 @@
+{
+	"link" : {
+		"weight" : 0.01,
+		"enabled" : false
+	},
+	"node" : {
+		"paintable" : true,
+		"swatch" : true
+	}
+}

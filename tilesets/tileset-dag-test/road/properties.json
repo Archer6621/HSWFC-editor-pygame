@@ -1,0 +1,5 @@
+{
+	"weight" : 0.1,
+	"constraint_weight": 1,
+	"generate" : true
+}

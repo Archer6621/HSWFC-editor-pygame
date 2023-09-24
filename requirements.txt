@@ -1,0 +1,5 @@
+imageio==2.19.3
+numpy==1.21.5
+matplotlib==3.5.3
+bidict==0.21.2
+pygame==2.1.2
